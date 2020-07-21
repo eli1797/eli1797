@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Eli.
+
+- :wrench: Hire me! I'm looking for a full-time software developer role.
+- 🌱 I’m currently learning: Vue.js, Italian, and Tennis.
+- 📫 Find me on: [![Generic badge](https://img.shields.io/badge/LinkedIn-Blue.svg)](https://www.linkedin.com/in/elijahbailey/)  
 
 <!--
 **eli1797/eli1797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
