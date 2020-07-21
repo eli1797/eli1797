@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Eli.
 
-- :wrench: I'm looking for a full-time software developer role.
+- :wrench: Hire me! I'm looking for a full-time software developer role.
 - 🌱 I’m currently learning: Vue.js, Italian, and Tennis.
 - 📫 Find me on: [![Generic badge](https://img.shields.io/badge/LinkedIn-Blue.svg)](https://www.linkedin.com/in/elijahbailey/)  
 
