@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Eli.
 
-- :wrench: Hire me! I'm looking for a full-time software developer role.
+- :wrench: Hire me! I'm looking for a developer or product manager role.
 - 🌱 I’m currently learning: Vue.js, Italian, and Tennis.
 - 📫 Find me on: [elibailey.org](elibailey.org), [LinkedIn](https://www.linkedin.com/in/elijahbailey/)  
 
