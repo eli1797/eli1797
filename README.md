@@ -2,7 +2,7 @@
 
 - :wrench: Hire me! I'm looking for a developer or product manager role.
 - 🌱 I’m currently learning: Vue.js, Italian, and Tennis.
-- 📫 Find me on: [elibailey.org](elibailey.org), [LinkedIn](https://www.linkedin.com/in/elijahbailey/)  
+- 📫 Find me on: [elibailey.org](https://elibailey.org), [LinkedIn](https://www.linkedin.com/in/elijahbailey/)  
 
 <!--
 **eli1797/eli1797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
