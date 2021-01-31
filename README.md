@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Eli.
 
-- :wrench: Hire me! I'm looking for a developer or product manager role.
-- 🌱 I’m currently learning: Vue.js, Italian, and Tennis.
+- :wrench: Backend Developer using Go and AWS to make learning better at Blueprint Prep
+- 🌱 Currently working on a site of small-sided volleyball games.
 - 📫 Find me on: [elibailey.org](https://elibailey.org), [LinkedIn](https://www.linkedin.com/in/elijahbailey/)  
 
 <!--
