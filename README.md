@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Eli.
 
 - :wrench: Backend Developer using Go and AWS to make learning better at Blueprint Prep
-- 🌱 Currently working on a site of small-sided volleyball games.
+- 🏐 Love to play volleyball
 - 📫 Find me on: [elibailey.org](https://elibailey.org), [LinkedIn](https://www.linkedin.com/in/elijahbailey/)  
 
 <!--
