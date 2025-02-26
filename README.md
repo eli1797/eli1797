@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Eli.
 
-- :wrench: Backend Developer using Go, Terraform, and AWS to make learning better at Blueprint Prep
 - 🏐 Love to play volleyball
-- 📫 Find me on: [elibailey.org](https://elibailey.org), [LinkedIn](https://www.linkedin.com/in/elijahbailey/)  
+- 📫 Find me on: [elibailey.org](https://elibailey.org)
 
 <!--
 **eli1797/eli1797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
